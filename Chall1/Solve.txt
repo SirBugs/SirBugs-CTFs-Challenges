@@ -1,0 +1,22 @@
+	Cookies value called "user_id" is encrypted through:
+		1-Text: User_1_
+		2-URL ENCODE: %55%73%65%72%5f%31%5f
+		3-BASE64 Encryption: JTU1JTczJTY1JTcyJTVmJTMxJTVm
+	
+	You have to create hashes with a script or manual and test till 100(user) like:
+		User_1_
+		User_2_
+		User_3_
+		Etc..
+	
+	By Making Them Final Hashes:
+		JTU1JTczJTY1JTcyJTVmJTMxJTVm
+		JTU1JTczJTY1JTcyJTVmJTMyJTVm
+		JTU1JTczJTY1JTcyJTVmJTMzJTVm
+	
+	And sending all of them to intruder, Start Attacking
+	You going to find the flag in the administrator page <3
+	
+	TWITTER @SirBagoza
+	GITHUB @SirBugs
+  HACKERONE @bugsv2
