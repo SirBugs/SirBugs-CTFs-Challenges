@@ -13,7 +13,9 @@ By Making Them Final Hashes:
 	JTU1JTczJTY1JTcyJTVmJTMxJTVm
 	JTU1JTczJTY1JTcyJTVmJTMyJTVm
 	JTU1JTczJTY1JTcyJTVmJTMzJTVm
-
+	
+	Admin HasH: JTU1JTczJTY1JTcyJTVmJTM2JTM5JTVm
+	
 And sending all of them to intruder, Start Attacking
 You going to find the flag in the administrator page <3
 
