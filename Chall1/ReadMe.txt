@@ -6,4 +6,4 @@
 	You have to get the flag from an administrator account
 	
 	Each user has a (Type, Name, ID)
-  Try to find out how can you move through profiles first, Then try to get the final flag from the admin account !!
+  	Try to find out how can you move through profiles first, Then try to get the final flag from the admin account !!
