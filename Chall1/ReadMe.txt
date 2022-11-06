@@ -2,6 +2,8 @@ Welcome To @SirBugs CTFs Challenges !!
 This game is totally for free, You just need to catch the flag
 The Flag going to be something like: $FLAG^ID-3e78fh87edfh87wtyfhx8we778cer^END^FLAG$
 
+Challenge Leve: Easy
+
 This website has 100 users including [Admins(1), Support(3), Users(96)]
 You have to get the flag from an administrator account
 
